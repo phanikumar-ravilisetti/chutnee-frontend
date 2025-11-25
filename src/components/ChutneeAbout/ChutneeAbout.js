@@ -6,7 +6,7 @@ const ChutneeAbout = () => {
   return (
     <div className="about-container-main">
         <div className="about-container">
-        <img className="flower-parrtern" src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763382793/Vector_ojt2a3.png" />
+        <img className="flower-parrtern" alt="" src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763382793/Vector_ojt2a3.png" />
         <div className="where-tredition-container-main">
             <div className="where-tredition-container">
         <h1 className="where-tredition-heading">WHERE TREDITION MEETS INNOVATION IN EVERY BYTE.</h1>
@@ -16,11 +16,11 @@ From signature chaii to inventive plates paired with our vibrant chutneys, every
 <button className="view-about-btn">VIEW ABOUT US <span className="span-arrows">{">"}</span></button>
 </div>
 <div className="greenlogo-star-image-container">
-    <img className="green-logo-star" src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763382808/Group_1171275302_jcvmki.png"/>
-    <img className="green-logo-star star-image" src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763382817/Vector_1_ayk7gh.png"/>
+    <img className="green-logo-star" alt="" src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763382808/Group_1171275302_jcvmki.png"/>
+    <img className="green-logo-star star-image" alt=""  src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763382817/Vector_1_ayk7gh.png"/>
 </div>
 </div>
-<img className="star-pattern" src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763386280/Vector_2_liymse.png" />
+<img className="star-pattern"  alt="" src="https://res.cloudinary.com/dasuvkmgv/image/upload/v1763386280/Vector_2_liymse.png" />
 </div>
 <WhatWeOffer />
 </div>
