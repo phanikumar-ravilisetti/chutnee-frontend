@@ -1,0 +1,96 @@
+.main-header {
+  width: 1541px;
+  height: 68px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-circle {
+  width: 46px;
+  height: 44px;
+  opacity: 1;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-family: "Arial", sans-serif;
+}
+
+.logo-text {
+  width: 130px;
+  height: 43px;
+  opacity: 1;
+  color: #fff;
+  font-family: "Arial Black", sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.header-right-section {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+
+.nav-links a {
+  font-family: sans-serif;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 8%;
+  text-transform: uppercase;
+  color:#FFFEEB;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  opacity: 0.7;
+}
+
+.reservation-btn {
+  width: 208px;
+  height: 68px;
+  opacity: 1;
+  background-color: #fdf5e6;
+  border: none;
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  color: #373737;
+  transition: background-color 0.3s ease;
+}
+
+.reservation-btn:hover {
+  background-color: #ffffff;
+}
+
+.span-arrow {
+  margin-left: 10px;
+  color:#10AC96;
+  width: 10px;
+  height: 5px;
+}

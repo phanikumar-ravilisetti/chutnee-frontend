@@ -1,0 +1,56 @@
+.header-container {
+  width: 1920px;
+  height: 41px;
+  background-color: #009C86;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  font-size: 13px;
+  font-family: "Arial", sans-serif;
+  padding: 0 40px;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.header-container-two {
+  width: 1541px;
+  height: 41px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header-right {
+  width: 103px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+
+.icon {
+  font-size: 18px;
+}
+
+.address-text {
+  font-family: sans-serif;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 5%;
+  text-transform: uppercase;
+
+}
+
+.phone {
+  margin-left: 16px;
+}

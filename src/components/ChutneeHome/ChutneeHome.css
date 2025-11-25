@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;700&display=swap');
+
+.background-container {
+  width: 1920px;
+  background-image: url('https://res.cloudinary.com/dasuvkmgv/image/upload/v1761489193/Rectangle_23_ysn4iv.png');
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat; 
+}
+
+.content {
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 20px 40px;
+  border-radius: 10px;
+}
+
+.welcome-text-container-main {
+  width: 1541px;
+  height: 889px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+
+.welcome-text-container {
+  width: 444px;
+  height: 316px;
+  opacity: 1;
+  margin-top: 216px;
+}
+
+.welcome-heading {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 94px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+  color:#FFFEEB;
+  letter-spacing: 2px; 
+  line-height: 1.1;  
+  text-transform: uppercase;
+}
+
+.view-btn {
+  width: 193px;
+  height: 68px;
+  opacity: 1;
+  background-color: #008DC8;
+  border: none;
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  color: #FFFEEB;
+  transition: background-color 0.3s ease;
+}
+.book-btn {
+  width: 216px;
+  height: 68px;
+  opacity: 1;
+  background-color: #FE1795;
+  border: none;
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  color: #FFFEEB;
+  transition: background-color 0.3s ease;
+  margin-left: 16px;
+}
+
+.span-arrows {
+  margin-left: 10px;
+  width: 10px;
+  height: 5px;
+}

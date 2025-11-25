@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;700&display=swap');
+
+.what-we-offer-main-container {
+    width: 1920px;
+    height: 878px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading-six-food-images-container {
+    width: 1061px;
+    height: 878px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.what-we-offer-heading {
+    font-family: 'Barlow Condensed';
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 84px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #EC1D84;
+    margin-top: 0;
+    text-align: center;
+}
+
+.six-food-images-container {
+    width: 1061px;
+    height: 704px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.eachfood-images-titles-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+
+.eachfood-image {
+    width: 262px;
+    height: 266px;
+    margin: 10px;
+}
+
+.food-images-titles {
+    width: 262px;
+    font-family: Barlow Condensed;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #874063;
+    margin-top: 6px;
+}
+
+.hallow-cylinder-section-image {
+    align-self: flex-end;
+}
