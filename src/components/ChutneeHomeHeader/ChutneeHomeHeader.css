@@ -48,6 +48,20 @@
   gap: 50px;;
 }
 
+.anchor-buttons {
+  background: none;
+  border: none;
+  color: #FFFEEB;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 8%;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
 .nav-links {
   display: flex;
   align-items: center;
